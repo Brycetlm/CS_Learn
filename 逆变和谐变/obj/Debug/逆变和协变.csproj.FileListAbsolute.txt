@@ -1,0 +1,6 @@
+C:\Users\57212\source\repos\CS_Learn\逆变和谐变\bin\Debug\逆变和谐变.exe.config
+C:\Users\57212\source\repos\CS_Learn\逆变和谐变\bin\Debug\逆变和谐变.exe
+C:\Users\57212\source\repos\CS_Learn\逆变和谐变\bin\Debug\逆变和谐变.pdb
+C:\Users\57212\source\repos\CS_Learn\逆变和谐变\obj\Debug\逆变和协变.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\逆变和谐变\obj\Debug\逆变和谐变.exe
+C:\Users\57212\source\repos\CS_Learn\逆变和谐变\obj\Debug\逆变和谐变.pdb

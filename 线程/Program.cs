@@ -11,8 +11,12 @@ namespace 线程
     {
 
         static bool IsRunning = true;
+        static object lo=new object();
         static void Main(string[] args)
         {
+            //线程作用
+            //当有复杂运算时，或者其他需要新线程时，可以新开线程去运算
+
             //新开线程
             Thread AnotherThread = new Thread(NewThread);
 
@@ -36,7 +40,22 @@ namespace 线程
 
             //线程休眠
             //!@@!在哪个线程里执行就在哪里休眠!!!!!!!
-            Thread.Sleep(1000);
+            //Thread.Sleep(1000);
+
+            //共享内存
+            //保证原子操作：锁 lock()
+            //lock()要求参数为引用类型
+
+            while(true)
+            {
+                lock (lo)
+                {
+                    Console.SetCursorPosition(0, 0);
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("⚪");
+                }
+
+            }
 
 
             Console.ReadLine();
@@ -45,13 +64,24 @@ namespace 线程
 
         public static void NewThread()
         {
-            while (IsRunning)
+            //while (IsRunning)
+            //{
+            //    //Thread.Sleep(1000);
+            //    Console.WriteLine("新增线程");
+            //}
+
+            while (true)
             {
-                Thread.Sleep(1000);
-                Console.WriteLine("新增线程");
+                lock (lo)
+                {
+                    Console.SetCursorPosition(5, 5);
+                    Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.WriteLine("√");
+                }
             }
 
-            
+
+
         }
     }
 }

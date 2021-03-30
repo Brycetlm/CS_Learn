@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\反射Assembly和Activator\bin\Debug\反射Assembly和Activator.exe.config
+C:\Users\57212\source\repos\CS_Learn\反射Assembly和Activator\bin\Debug\反射Assembly和Activator.exe
+C:\Users\57212\source\repos\CS_Learn\反射Assembly和Activator\bin\Debug\反射Assembly和Activator.pdb
+C:\Users\57212\source\repos\CS_Learn\反射Assembly和Activator\obj\Debug\反射Assembly和Activator.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\反射Assembly和Activator\obj\Debug\反射Assembly和Activator.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\反射Assembly和Activator\obj\Debug\反射Assembly和Activator.exe
+C:\Users\57212\source\repos\CS_Learn\反射Assembly和Activator\obj\Debug\反射Assembly和Activator.pdb

@@ -38,12 +38,37 @@ namespace 逆变和协变
      //2.结合里氏替换原则理解
      //用父类泛型容器装载子类泛型委托，协变
      //用子类泛型容器装载父类泛型委托，逆变
-     class Fathter
+     class Father
     {
+        public int a = 10;
+        public int b = 20;
+        public Father()
+        {
 
+        }
+        public Father(int i)
+        {
+            this.a = i;
+            this.b = i;
+        }
+
+        public void Walking()
+        {
+            Console.WriteLine("I'm walking");
+        }
+
+        public void Steps(int steps)
+        {
+            Console.WriteLine("我走了"+steps+"步");
+        }
+
+        public static void Run(int speed)
+        {
+            Console.WriteLine("我跑的速度是："+speed);
+        }
     }
 
-    class Son : Fathter
+    class Son : Father
     {
 
     }
@@ -56,6 +81,8 @@ namespace 逆变和协变
     {
         static void Main(string[] args)
         {
+            Father f = new Father();
+            Console.WriteLine(f.a);
            //协变
 
             //逆变

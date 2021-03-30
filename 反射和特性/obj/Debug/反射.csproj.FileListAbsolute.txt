@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\反射和特性\bin\Debug\反射和特性.exe.config
+C:\Users\57212\source\repos\CS_Learn\反射和特性\bin\Debug\反射和特性.exe
+C:\Users\57212\source\repos\CS_Learn\反射和特性\bin\Debug\反射和特性.pdb
+C:\Users\57212\source\repos\CS_Learn\反射和特性\obj\Debug\反射.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\反射和特性\obj\Debug\反射.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\反射和特性\obj\Debug\反射和特性.exe
+C:\Users\57212\source\repos\CS_Learn\反射和特性\obj\Debug\反射和特性.pdb
