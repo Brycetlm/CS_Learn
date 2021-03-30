@@ -1,0 +1,6 @@
+C:\Users\57212\source\repos\CS_Learn\Dictionary相关\bin\Debug\Dictionary相关.exe.config
+C:\Users\57212\source\repos\CS_Learn\Dictionary相关\bin\Debug\Dictionary相关.exe
+C:\Users\57212\source\repos\CS_Learn\Dictionary相关\bin\Debug\Dictionary相关.pdb
+C:\Users\57212\source\repos\CS_Learn\Dictionary相关\obj\Debug\Dictionary相关.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\Dictionary相关\obj\Debug\Dictionary相关.exe
+C:\Users\57212\source\repos\CS_Learn\Dictionary相关\obj\Debug\Dictionary相关.pdb

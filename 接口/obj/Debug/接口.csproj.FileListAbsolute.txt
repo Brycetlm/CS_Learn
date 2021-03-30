@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\接口\bin\Debug\接口.exe.config
+C:\Users\57212\source\repos\CS_Learn\接口\bin\Debug\接口.exe
+C:\Users\57212\source\repos\CS_Learn\接口\bin\Debug\接口.pdb
+C:\Users\57212\source\repos\CS_Learn\接口\obj\Debug\接口.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\接口\obj\Debug\接口.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\接口\obj\Debug\接口.exe
+C:\Users\57212\source\repos\CS_Learn\接口\obj\Debug\接口.pdb

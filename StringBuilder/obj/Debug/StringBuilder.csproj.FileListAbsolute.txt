@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\57212\source\repos\CS_Learn\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\57212\source\repos\CS_Learn\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\57212\source\repos\CS_Learn\StringBuilder\obj\Debug\StringBuilder.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\57212\source\repos\CS_Learn\StringBuilder\obj\Debug\StringBuilder.pdb

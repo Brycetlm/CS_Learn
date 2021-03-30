@@ -1,0 +1,6 @@
+C:\Users\57212\source\repos\CS_Learn\String\bin\Debug\String.exe.config
+C:\Users\57212\source\repos\CS_Learn\String\bin\Debug\String.exe
+C:\Users\57212\source\repos\CS_Learn\String\bin\Debug\String.pdb
+C:\Users\57212\source\repos\CS_Learn\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\String\obj\Debug\String.exe
+C:\Users\57212\source\repos\CS_Learn\String\obj\Debug\String.pdb

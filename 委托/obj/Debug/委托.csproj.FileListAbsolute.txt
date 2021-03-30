@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\委托\bin\Debug\委托.exe.config
+C:\Users\57212\source\repos\CS_Learn\委托\bin\Debug\委托.exe
+C:\Users\57212\source\repos\CS_Learn\委托\bin\Debug\委托.pdb
+C:\Users\57212\source\repos\CS_Learn\委托\obj\Debug\委托.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\委托\obj\Debug\委托.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\委托\obj\Debug\委托.exe
+C:\Users\57212\source\repos\CS_Learn\委托\obj\Debug\委托.pdb

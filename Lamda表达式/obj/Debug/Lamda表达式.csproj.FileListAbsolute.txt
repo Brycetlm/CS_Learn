@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\Lamda表达式\bin\Debug\Lamda表达式.exe.config
+C:\Users\57212\source\repos\CS_Learn\Lamda表达式\bin\Debug\Lamda表达式.exe
+C:\Users\57212\source\repos\CS_Learn\Lamda表达式\bin\Debug\Lamda表达式.pdb
+C:\Users\57212\source\repos\CS_Learn\Lamda表达式\obj\Debug\Lamda表达式.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\Lamda表达式\obj\Debug\Lamda表达式.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\Lamda表达式\obj\Debug\Lamda表达式.exe
+C:\Users\57212\source\repos\CS_Learn\Lamda表达式\obj\Debug\Lamda表达式.pdb

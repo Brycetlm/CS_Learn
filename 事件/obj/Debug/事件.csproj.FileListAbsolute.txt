@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\事件\bin\Debug\事件.exe.config
+C:\Users\57212\source\repos\CS_Learn\事件\bin\Debug\事件.exe
+C:\Users\57212\source\repos\CS_Learn\事件\bin\Debug\事件.pdb
+C:\Users\57212\source\repos\CS_Learn\事件\obj\Debug\事件.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\事件\obj\Debug\事件.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\事件\obj\Debug\事件.exe
+C:\Users\57212\source\repos\CS_Learn\事件\obj\Debug\事件.pdb

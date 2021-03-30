@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\万物之父object和拆箱装箱\bin\Debug\万物之父object和拆箱装箱.exe.config
+C:\Users\57212\source\repos\CS_Learn\万物之父object和拆箱装箱\bin\Debug\万物之父object和拆箱装箱.exe
+C:\Users\57212\source\repos\CS_Learn\万物之父object和拆箱装箱\bin\Debug\万物之父object和拆箱装箱.pdb
+C:\Users\57212\source\repos\CS_Learn\万物之父object和拆箱装箱\obj\Debug\万物之父object和拆箱装箱.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\万物之父object和拆箱装箱\obj\Debug\万物之父object和拆箱装箱.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\万物之父object和拆箱装箱\obj\Debug\万物之父object和拆箱装箱.exe
+C:\Users\57212\source\repos\CS_Learn\万物之父object和拆箱装箱\obj\Debug\万物之父object和拆箱装箱.pdb

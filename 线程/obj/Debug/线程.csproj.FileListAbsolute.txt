@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\线程\bin\Debug\线程.exe.config
+C:\Users\57212\source\repos\CS_Learn\线程\bin\Debug\线程.exe
+C:\Users\57212\source\repos\CS_Learn\线程\bin\Debug\线程.pdb
+C:\Users\57212\source\repos\CS_Learn\线程\obj\Debug\线程.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\线程\obj\Debug\线程.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\线程\obj\Debug\线程.exe
+C:\Users\57212\source\repos\CS_Learn\线程\obj\Debug\线程.pdb

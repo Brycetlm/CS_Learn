@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\多态VOB\bin\Debug\多态VOB.exe.config
+C:\Users\57212\source\repos\CS_Learn\多态VOB\bin\Debug\多态VOB.exe
+C:\Users\57212\source\repos\CS_Learn\多态VOB\bin\Debug\多态VOB.pdb
+C:\Users\57212\source\repos\CS_Learn\多态VOB\obj\Debug\多态.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\多态VOB\obj\Debug\多态.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\多态VOB\obj\Debug\多态VOB.exe
+C:\Users\57212\source\repos\CS_Learn\多态VOB\obj\Debug\多态VOB.pdb

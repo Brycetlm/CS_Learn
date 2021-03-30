@@ -1,0 +1,6 @@
+C:\Users\57212\source\repos\CS_Learn\匿名函数\bin\Debug\匿名函数.exe.config
+C:\Users\57212\source\repos\CS_Learn\匿名函数\bin\Debug\匿名函数.exe
+C:\Users\57212\source\repos\CS_Learn\匿名函数\bin\Debug\匿名函数.pdb
+C:\Users\57212\source\repos\CS_Learn\匿名函数\obj\Debug\匿名函数.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\匿名函数\obj\Debug\匿名函数.exe
+C:\Users\57212\source\repos\CS_Learn\匿名函数\obj\Debug\匿名函数.pdb

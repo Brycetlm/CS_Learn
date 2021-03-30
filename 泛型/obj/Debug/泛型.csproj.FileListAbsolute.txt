@@ -1,0 +1,7 @@
+C:\Users\57212\source\repos\CS_Learn\泛型\bin\Debug\泛型.exe.config
+C:\Users\57212\source\repos\CS_Learn\泛型\bin\Debug\泛型.exe
+C:\Users\57212\source\repos\CS_Learn\泛型\bin\Debug\泛型.pdb
+C:\Users\57212\source\repos\CS_Learn\泛型\obj\Debug\泛型.csprojAssemblyReference.cache
+C:\Users\57212\source\repos\CS_Learn\泛型\obj\Debug\泛型.csproj.CoreCompileInputs.cache
+C:\Users\57212\source\repos\CS_Learn\泛型\obj\Debug\泛型.exe
+C:\Users\57212\source\repos\CS_Learn\泛型\obj\Debug\泛型.pdb
